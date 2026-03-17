@@ -1,4 +1,4 @@
-<h1 align="center">✨ Ndifreke (Freke) | Data Analyst → Future Data Scientist ✨</h1>
+<h1 align="center">✨ Ndifreke Charles | Data Analyst → Future Data Scientist ✨</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1000&color=FF69B4&center=true&width=600&lines=Data+Analyst;Power+BI+Developer;Future+Data+Scientist" />

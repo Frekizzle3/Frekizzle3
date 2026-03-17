@@ -44,11 +44,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ndifreke-charles-723106102">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-ff69b4?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-</p>
-  <a href="mailto:ndifrekecharles@outlook.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="ndifrekecharles@outlook.com">
+    <img src="https://img.shields.io/badge/Email-1f1f1f?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
